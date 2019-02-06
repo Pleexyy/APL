@@ -1,0 +1,18 @@
+%f float or double signed decimal
+
+Pour qu'il affiche 12 chiffres après la virgule 
+
+printf("%.12f\n", 12345.678910111213);
+
+Pour qu'il affiche 15 chiffres après la virgule
+
+printf("%.15f\n", 12345.678910111213);
+
+
+Le second programme affiche inf
+							 -inf	
+							 -nan
+
+inf = plus l'infini
+-inf = moins l'infini
+-nan = Not a number
