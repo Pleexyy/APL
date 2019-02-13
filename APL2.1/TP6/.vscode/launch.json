@@ -1,0 +1,25 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SautoirMain",
+            "request": "launch",
+            "mainClass": "SautoirMain",
+            "projectName": "TP6_d848ec99"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Sautoir",
+            "request": "launch",
+            "mainClass": "Sautoir",
+            "projectName": "TP6_d848ec99"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Formes",
+            "request": "launch",
+            "mainClass": "Formes",
+            "projectName": "TP6_d848ec99"
+        }
+    ]
+}

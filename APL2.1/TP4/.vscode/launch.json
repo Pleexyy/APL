@@ -1,0 +1,32 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Rose",
+            "request": "launch",
+            "mainClass": "Rose",
+            "projectName": "TP4_d848ec97"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Question",
+            "request": "launch",
+            "mainClass": "Question",
+            "projectName": "TP4_d848ec97"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Damier",
+            "request": "launch",
+            "mainClass": "Damier",
+            "projectName": "TP4_d848ec97"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Choix",
+            "request": "launch",
+            "mainClass": "Choix",
+            "projectName": "TP4_d848ec97"
+        }
+    ]
+}

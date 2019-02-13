@@ -1,0 +1,39 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - PaperMain",
+            "request": "launch",
+            "mainClass": "PaperMain",
+            "projectName": "TP5_d848ec98"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - GrisMain",
+            "request": "launch",
+            "mainClass": "GrisMain",
+            "projectName": "TP5_d848ec98"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "TP5_d848ec98"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ToHex",
+            "request": "launch",
+            "mainClass": "ToHex",
+            "projectName": "TP5_d848ec98"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ToUpperCase",
+            "request": "launch",
+            "mainClass": "ToUpperCase",
+            "projectName": "TP5_d848ec98"
+        }
+    ]
+}

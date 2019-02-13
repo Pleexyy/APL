@@ -1,0 +1,5 @@
+Dans quel package peut-on trouver la classe String ? De quelle classe hérite-t-elle ?
+
+java.lang.String qui hérite de la classe java.lang.Object
+
+Combien de méthodes sont transmises par la classe mère ? Sur celles-ci, combien sont redéfinies ? 

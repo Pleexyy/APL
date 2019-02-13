@@ -1,0 +1,39 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Contingences",
+            "request": "launch",
+            "mainClass": "Contingences",
+            "projectName": "TP3_d848ec96"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Choix",
+            "request": "launch",
+            "mainClass": "Choix",
+            "projectName": "TP3_d848ec96"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Saisie",
+            "request": "launch",
+            "mainClass": "Saisie",
+            "projectName": "TP3_d848ec96"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Bouton",
+            "request": "launch",
+            "mainClass": "Bouton",
+            "projectName": "TP3_d848ec96"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Sirocco",
+            "request": "launch",
+            "mainClass": "Sirocco",
+            "projectName": "TP3_d848ec96"
+        }
+    ]
+}
