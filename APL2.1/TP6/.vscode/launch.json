@@ -2,6 +2,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - AccueilMain",
+            "request": "launch",
+            "mainClass": "AccueilMain",
+            "projectName": "TP6_d848ec99"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Accueil",
+            "request": "launch",
+            "mainClass": "Accueil",
+            "projectName": "TP6_d848ec99"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - SautoirMain",
             "request": "launch",
             "mainClass": "SautoirMain",

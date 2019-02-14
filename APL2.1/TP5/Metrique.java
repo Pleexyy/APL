@@ -16,13 +16,11 @@ public class Metrique extends Paper {
     private int margin_y;
 
     public Metrique() {
-        super();
         // 1,5cm = 15 mm et le Format A4 standard est 210 x 297
         setMetricImageableArea(15, 15, 210, 297);
     }
 
     public Metrique(int marge_x, int marge_y, int l, int h) {
-        super();
         setMetricImageableArea(marge_x, marge_y, l, h);
     }
 
@@ -63,10 +61,10 @@ public class Metrique extends Paper {
     }
 
     public String toString() {
-        return "\n Valeur en millimètre\n Longueur = " + this.longueur + "\n Hauteur = " + this.hauteur + "\n Marge_x = " + this.margin_x
-                + "\n Marge_y = " + this.margin_y + "\n Taille en longueur imageable = "
-                + this.getMetricImageablelongueur() + "\n Taille en hauteur imageable = "
-                + this.getMetricImageablehauteur();
+        return "\n Valeur en millimètre\n Longueur = " + this.longueur + "\n Hauteur = " + this.hauteur
+                + "\n Marge_x = " + this.margin_x + "\n Marge_y = " + this.margin_y
+                + "\n Taille en longueur imageable = " + this.getMetricImageablelongueur()
+                + "\n Taille en hauteur imageable = " + this.getMetricImageablehauteur();
     }
 
 }
